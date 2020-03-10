@@ -1,1 +1,1 @@
-### Space Tech Web App
+### Spacetech Web App
